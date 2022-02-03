@@ -203,13 +203,13 @@ p {
   padding: 1px 1px 5px 5px;
 }
 
-.aboutme {
+.aboutus {
   background: url("https://s3-us-west-2.amazonaws.com/files.bradengelhardt.com/brad-bg-main.jpg")
     no-repeat;
   background-size: cover;
 }
 
-.aboutme p {
+.aboutus p {
   color: white;
   font-weight: 100;
   font-size: 17.4px;
@@ -550,7 +550,7 @@ label {
     max-width: 300px;
   }
 
-  .aboutme h1 {
+  .aboutus h1 {
     font-size: 28px;
   }
 }
