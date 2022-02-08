@@ -12,6 +12,8 @@ h1 {
   font-weight: bold;
 }
 
+
+
 p {
   font-size: 20px;
   color: #484848;
@@ -202,6 +204,10 @@ p {
   background: url("https://s3-us-west-2.amazonaws.com/files.bradengelhardt.com/brad-bg-main.jpg")
     no-repeat;
   background-size: cover;
+}
+
+.section-members p{
+  font-size: small;
 }
 
 .aboutus p {
